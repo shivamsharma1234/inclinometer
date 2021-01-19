@@ -78,6 +78,46 @@ On an average the difference between actual and predicted height error was aroun
 
 </p>
 
+<table>
+  <tr>
+    <th>Sno</th>
+    <th>Object</th>
+    <th>Actual Height</th>
+    <th>Alpha(&alpha;)</th>
+    <th>Beta(&beta;)</th>
+    <th>Height(h1)</th>
+    <th>Total Height calculated</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Shoe Rack</td>
+    <td>135 cm</td>
+    <td>38 degree</td>
+    <td>49 degree</td>
+    <td>84 cm</td>
+    <td>141.0495 cm</td>
+    
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wall</td>
+    <td>300 cm</td>
+    <td>71 degree</td>
+    <td>49 degree</td>
+    <td>84 cm</td>
+    <td>296.0658 cm</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td>Cupboard</td>
+    <td>200 cm</td>
+    <td>57 degree</td>
+    <td>49 degree</td>
+    <td>84 cm</td>
+    <td>196.4411 cm</td>
+  </tr>
+  </table>
+
 <h1>Conclusion</h1>
 The project successfully demonstrates the creation of a height measurement device which utilises simple sensors and MATLAB software. On an average the difference between actual and predicted height error was around 4.53 cm measured by the built device. The device can be used to measure the height of the instrument in the visible range of the lazer. Using the module demonstrated in the project we can measure the height of any object in theoretical terms. But due to limitations of the sensor's range and human involvement it is not feasible to measure all the objects using this device. 
 
