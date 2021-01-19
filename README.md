@@ -8,13 +8,19 @@ Therefore, the project aims at creating an electronic model that can be used to 
 
 </p>
 <h1>Methodology</h1>
-
+<h2>Setup of the system</h2>
 <figure style="text-align: center;">
     <img src='images/Flow Chart of the Project setup.jpg' />
     <figcaption>Figure 1. Diagram of the setup for height measurement</figcaption>
 </figure>
 
 <h1>Results</h1>
+<h2>Instruments in the circuit</h2>
+<figure style="text-align: center;">
+    <img src='images/Circuit_Diagram.png' />
+    <figcaption>Figure 2. Circuit diagram for the arduino and sensors connection</figcaption>
+</figure>
+
 <p>
 We tested the device to measure heights of some of the basic instruments which are recorded in table 1. We measured the heights of three different objects of variable height to demonstrate the methodology and workability of the instrument built. 
 We first measured the height of a 'Shoe Rack' which was 135 cm in height measured using a centimeter scale. After calculating the angles alpha and beta and the height (h1) we got the approximate height (h1 +h2) equal to 141.0495 cm. The deviation from actual height was around 6.95 cm more than the actual height.
