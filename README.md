@@ -9,6 +9,10 @@ Therefore, the project aims at creating an electronic model that can be used to 
 </p>
 <h1>Methodology</h1>
 
+<figure style="text-align: center;">
+    <img src='images/Flow Chart of the Project setup.jpg' />
+    <figcaption>Figure 1. Diagram of the setup for height measurement</figcaption>
+</figure>
 
 <h1>Results</h1>
 <p>
