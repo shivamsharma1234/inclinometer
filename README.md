@@ -1,4 +1,4 @@
-# inclinometer
+# Inclinometer
 Its a working model to measure height using adrunino, servos and MATLAB
 <h1>Introduction</h1>
 <p>
