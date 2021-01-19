@@ -77,3 +77,23 @@ The third object we used is a 'Cupboard' which was of 200 cm height. The measure
 On an average the difference between actual and predicted height error was around 4.53 cm.
 
 </p>
+
+<h1>Conclusion</h1>
+The project successfully demonstrates the creation of a height measurement device which utilises simple sensors and MATLAB software. On an average the difference between actual and predicted height error was around 4.53 cm measured by the built device. The device can be used to measure the height of the instrument in the visible range of the lazer. Using the module demonstrated in the project we can measure the height of any object in theoretical terms. But due to limitations of the sensor's range and human involvement it is not feasible to measure all the objects using this device. 
+
+<h2>Limitations:</h2>
+<ol>
+<li>The ultrasonic sensor can measure the maximum range of 4 m and therefore it can’t be placed at higher height on the stand. </li>
+<li>The transmission of signal from MATLAB to arduino for the rotation of servo is also has some delays due to which there is a delay in response time</li>
+<li>Manual errors created due to human involvement also degrades precision value</li>
+<li>The angles calculated using servo motors are also not precise to give the exact value of the angles.</li>
+
+</ol>
+
+<h2>Improvements that can be made </h2>
+<ol>
+<li>In order to improve the mechanism, we need to use servos that can measure the angles at a high precision rate such as an ‘Inclinometer’.</li>
+<li>To reduce manual error the system must be made automated such that it should be able to scan the object automatically to measure the alpha and beta angle more accurately. Since humans will always have difficulty in maintaining the correct position of the laser therefore the device should be autonomous in calculating the angles.</li>
+<li>The devices and sensors should be fixed properly so that there should be no error due to manufacturing issues. For instance, the laser that we used was not aligned properly. It was tilted at an unknown angle from its position. This error can only be rectified if we can use high quality sensor devices with no manufacturing defects.</li>
+</ol>
+
